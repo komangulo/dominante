@@ -1,0 +1,20 @@
+{
+  "name": "Dominante Madrid",
+  "short_name": "Dominante Ma",
+  "description": "Casa de dominación masculina en Madrid. Catorce años de práctica discreta, protocolo negociado y límites que se respetan antes de empezar.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0E1013",
+  "theme_color": "#0E1013",
+  "lang": "es-ES",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "assets/images/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
